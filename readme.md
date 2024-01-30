@@ -1,4 +1,5 @@
 # Twitter Database Project Documentation
+<img src = "twitter_db_schema.png" height = "450px " width = "1000px">
 
 ## Overview
 
